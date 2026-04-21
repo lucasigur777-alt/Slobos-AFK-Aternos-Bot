@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SurelyNot.aternos.me:32514",
+    "ip": "SurelyNot.aternos.me",
     "port": 32514,
     "version": "1.21.11",
     "try-creative": false

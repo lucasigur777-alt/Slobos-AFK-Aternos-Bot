@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AfkNigga123",
+    "username": "afkboy",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "SurelyNot.aternos.me",
-    "port": 32514,
+    "ip": "smpFor412.feathermc.gg",
+    "port": 25565,
     "version": "1.21.11",
     "try-creative": false
   },
